@@ -32,3 +32,4 @@ for i in range(len(processes)):
         print(processes['p3']['B.T']*"_",'p3') 
     elif  processes['p4']['B.T']==minArray[i]:
         print(processes['p4']['B.T']*"_",'p4') 
+       
